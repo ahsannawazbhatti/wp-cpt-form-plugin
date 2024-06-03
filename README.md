@@ -1,4 +1,4 @@
-# wp-plugins
+# wp-cpt-form-plugin
 
 This plugin inputs the Name and URL from the user and then stores it into a custom post type (Website). The source code of the URL is fetched and displayed in custom Metabox. While all other Metaboxes are disabled in this plugin.
 
